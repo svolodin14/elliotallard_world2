@@ -1,2 +1,0 @@
-class Newarticle < ApplicationRecord
-end
